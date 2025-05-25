@@ -67,9 +67,9 @@ The cleaned data was saved in `layoffs_staging2`, ready for visualisation.
 ### 🔹 Companies with Most Layoffs
 
 - - 🛒 **Amazon** leads with over **18K layoffs**  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="50"/> **Google**, 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dell_Logo.svg" alt="Dell" width="50"/> **Dell**, and 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Booking.com_logo.svg" alt="Booking.com" width="50"/> **Booking.com** also reported high cuts
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="50"/> , 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dell_Logo.svg" alt="Dell" width="30"/> , and 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Booking.com_logo.svg" alt="Booking.com" width="65"/> also reported high cuts
 
 
 ### 🔹 Layoffs by Country
