@@ -52,7 +52,8 @@ The cleaned data was saved in `layoffs_staging2`, ready for visualisation.
 
 ## 📈 Key Insights from Visualisation
 
-> 📁 See full visualisation in the attached [LayoffsBI.jpg](LayoffsBI.jpg)
+> 📁 See full visualisation ![Business Intelligence Dashboard](./BI.jpg)
+
 
 ### 🔹 Total Layoffs by Year
 
